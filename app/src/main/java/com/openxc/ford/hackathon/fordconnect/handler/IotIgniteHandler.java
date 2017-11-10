@@ -25,6 +25,11 @@ import com.ardic.android.iotignite.things.ThingType;
 /**
  * Created by yavuz.erzurumlu on 4/10/17.
  */
+ 
+/**
+ * @author Yavuz Erzurumlu
+ * @author Ceyhun Ertürk
+ */
 
 
 public class IotIgniteHandler implements ConnectionCallback, NodeListener {

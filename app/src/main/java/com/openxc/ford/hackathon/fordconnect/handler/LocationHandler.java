@@ -18,6 +18,11 @@ import org.json.JSONObject;
 /**
  * Created by codemania on 11/4/17.
  */
+ 
+/**
+ * @author Yavuz Erzurumlu
+ * @author Ceyhun Ertürk
+ */
 
 public class LocationHandler {
 
